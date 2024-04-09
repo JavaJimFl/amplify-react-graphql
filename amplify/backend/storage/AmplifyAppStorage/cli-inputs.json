@@ -1,0 +1,14 @@
+{
+  "resourceName": "AmplifyAppStorage",
+  "policyUUID": "3e3628d5",
+  "bucketName": "amplifyreactgraphqlstorage",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
